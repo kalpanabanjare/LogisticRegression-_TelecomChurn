@@ -1,1 +1,2 @@
-# LogisticRegression-_TelecomChurn
+# LogisticRegression_TelecomChurn
+
